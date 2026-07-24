@@ -1,0 +1,2 @@
+# coinxray
+Script on roblox
